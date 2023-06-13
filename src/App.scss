@@ -1,0 +1,66 @@
+.logo {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 21px;
+  margin-left: 16px;
+  font-weight: 100;
+}
+
+.action_button {
+  margin-right: 8px;
+}
+
+.search_box input {
+  border-radius: 25px;
+  z-index: 0;
+}
+
+.center_text {
+  text-align: center;
+}
+
+.action_icon {
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+.action_icon :hover {
+  color: deepskyblue;
+}
+
+.ant-table-pagination {
+  margin-right: 12px !important;
+}
+
+.social-icon {
+  font-size: 20px;
+  color: white;
+  margin-right: 18px;
+}
+
+.social-icon:hover {
+  color: silver;
+}
+
+#root {
+  width: 100%;
+  height: 100%;
+}
+
+.get-started-btn {
+  border-radius: 20px;
+  color: white;
+  font-size: 13px;
+  font-weight: 100;
+  height: 36px;
+}
+
+.get-started-btn:hover {
+  color: #59abf8;
+  border-color: #59abf8;
+  transition: color, border-color, 0.5s;
+}
+
+.breadcrumb-text {
+  font-size: 12px;
+  font-weight: 200;
+}
